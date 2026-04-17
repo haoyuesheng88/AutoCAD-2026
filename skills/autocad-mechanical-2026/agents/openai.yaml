@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoCAD Mechanical 2026"
+  short_description: "Attach to AutoCAD Mechanical 2026 and draw shapes."
+  default_prompt: "Use $autocad-mechanical-2026 to attach to the open AutoCAD Mechanical 2026 app and draw a square."
